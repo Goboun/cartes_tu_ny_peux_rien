@@ -12,7 +12,7 @@ Ce document réalisé a été réalisé par HEBC en collaboration avec 22302932 
 - Retrouvez sur notre site les différents horaires de trains et de RER de la région parisienne.
 - Toutes les informations dont vous avez besoin pour vos trajets sont disponibles dessus !
 
-![alt text](https://st.depositphotos.com/1934071/2750/i/450/depositphotos_27501869-stock-photo-fast-moving-train.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/4/47/China-Sichuan.png)
 
 ### Presentation
 ***
@@ -21,10 +21,6 @@ Ce document réalisé a été réalisé par HEBC en collaboration avec 22302932 
 1. BANDOIS--CERVEAU Henri-Emmanuel | 22202642
 2. TRINH Gia-Tâm | 22302932
 3. FERON Stephen
-
-![alt text](https://www.plandeparis.info/plan-bus/carte-bus.png)
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/4/47/China-Sichuan.png)
 
 ### Fonctionnement
 ***
