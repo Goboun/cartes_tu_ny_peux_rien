@@ -1,6 +1,6 @@
 # PROJET CARTES - GENIE LOGICIEL L2I 2023/2024
 ***
-Ce document réalisé a été réalisé par HEBC en collaboration avec 22302932 et Stephen, dans le cadre d'un projet de Génie Logiciel, en L2-Informatique 2023-2024, avec le TD-C.
+Ce document réalisé a été réalisé par HEBC avec un effectif total de 3, dans le cadre d'un projet de Génie Logiciel, en L2-Informatique 2023-2024, avec le TD-C.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -18,8 +18,8 @@ Ce document réalisé a été réalisé par HEBC en collaboration avec 22302932 
 ***
 
 **Membres**
-1. BANDOIS--CERVEAU Henri-Emmanuel | 22202642
-2. TRINH Gia-Tâm | 22302932
+1. [BANDOIS--CERVEAU Henri-Emmanuel](https://github.com/Goboun)
+2. [TRINH Gia-Tâm](https://github.com/agent1999)
 3. FERON Stephen
 
 ### Fonctionnement
