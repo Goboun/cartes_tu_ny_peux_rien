@@ -1,6 +1,6 @@
 # Tu n'y peux rien - GÉNIE LOGICIEL 2023/2024
 
-Ce document a été réalisé par **agent1999** en collaboration avec **HEBC** et **Stefx**, dans le cadre d'un projet en Génie Logiciel en **L2-Informatique 2023-2024**.
+Ce document a été réalisé par **HEBC** en collaboration avec **agent1999** et **Stefx**, dans le cadre d'un projet en Génie Logiciel en **L2-Informatique 2023-2024**.
 
 ## Table des Matières
 
